@@ -14,8 +14,6 @@ export class HomeComponent implements OnInit {
   }
 
   ngAfterViewInit() {
-
-    $(".memenu").memenu();
     // You can also use "$(window).load(function() {"
     $(function () {
       // Slideshow 4

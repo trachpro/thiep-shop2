@@ -659,7 +659,7 @@ figure.effect-bubba:hover p,figure.effect-bubba:hover h2 {
     margin: 5px 0 0 0;
     text-transform: uppercase;
 }
-.product-one:nth-child(2){
+.product-one:nth-child(2), .product-one:nth-child(3), .product-one:nth-child(4){
 	margin-top:30px;
 }
 img.zoom-img {
@@ -2212,7 +2212,7 @@ figure.effect-bubba p {
 .product {
     padding: 2em 0px 3em 0px;
 }
-.product-one:nth-child(2) {
+.product-one:nth-child(2), .product-one:nth-child(3), .product-one:nth-child(4) {
     margin-top: 20px;
 }
 .infor-top {
@@ -2453,7 +2453,7 @@ figure.effect-bubba p {
 .srch {
     left: 7px;
 }
-.product-one:nth-child(2) {
+.product-one:nth-child(2), .product-one:nth-child(3), .product-one:nth-child(4) {
     margin-top: 15px;
 }
 .product {
